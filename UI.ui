@@ -18,7 +18,7 @@
     <item alignment="Qt::AlignBottom">
      <widget class="QPushButton" name="button">
       <property name="text">
-       <string>Больше окружностей богу окружностей!</string>
+       <string>Больше окружностей богу окружностей =)</string>
       </property>
      </widget>
     </item>
